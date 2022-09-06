@@ -1,6 +1,6 @@
 # Echarts-Demo
 - 数据可视化-Echarts 大屏数据可视化展示
-- 展示地址：https://nichan-13.github.io/Echarts-Demo/
+- 展示地址：https://myhname.github.io/EchartsPractice/
 
 
 ## Echarts介绍
@@ -31,7 +31,7 @@
 
 
 ## 项目展示
-- 展示地址：  
+- 展示地址：  https://myhname.github.io/EchartsPractice/
 
 ![echarts.png](https://z4a.net/images/2020/06/29/echarts.png)
 
