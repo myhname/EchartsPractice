@@ -1,4 +1,8 @@
 # EchartsPractice
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 - 数据可视化-Echarts 大屏数据可视化展示
 - 展示地址：https://myhname.github.io/EchartsPractice/
 
@@ -17,8 +21,6 @@
 
 官网地址：<https://echarts.apache.org/zh/index.html>
 
-
-
 ## 使用技术
 
 - div + css 布局
@@ -28,15 +30,21 @@
 - rem适配
 - **echarts基础**
 
-
-
 ## 项目展示
+<<<<<<< Updated upstream
 - 展示地址：  https://myhname.github.io/EchartsPractice/
+=======
+>>>>>>> Stashed changes
 
 ![echarts.png](https://z4a.net/images/2020/06/29/echarts.png)
-
-
 
 ## 参考资料
 
 - [五分钟上手Echarts](https://echarts.apache.org/zh/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts)
+- Echarts官网地址：<https://echarts.apache.org/zh/index.html>
+
+## 总结
+
+前端的特定就是东西多，三件套HTML、CSS、JS本身的逻辑上并没有算法、数据结构那样理解起来有一定的门槛，但是不要因此轻视。要记忆、练习的东西很多，所以一定要亲手实践
+
+ps:本来以为布个局简简单单，结果实际填数据时候真的难搞
