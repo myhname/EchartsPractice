@@ -1,11 +1,7 @@
 # EchartsPractice
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 - 数据可视化-Echarts 大屏数据可视化展示
 - 展示地址：https://myhname.github.io/EchartsPractice/
-
 
 ## Echarts介绍
 
@@ -31,10 +27,6 @@
 - **echarts基础**
 
 ## 项目展示
-<<<<<<< Updated upstream
-- 展示地址：  https://myhname.github.io/EchartsPractice/
-=======
->>>>>>> Stashed changes
 
 ![echarts.png](https://z4a.net/images/2020/06/29/echarts.png)
 
