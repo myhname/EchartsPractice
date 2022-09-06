@@ -1,4 +1,4 @@
-# Echarts-Demo
+# EchartsPractice
 - 数据可视化-Echarts 大屏数据可视化展示
 - 展示地址：https://myhname.github.io/EchartsPractice/
 
